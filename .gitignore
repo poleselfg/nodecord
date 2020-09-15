@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# profiling files
+src/config/config.json
+src/config/cookies.json
+
+# environment variables
+.env

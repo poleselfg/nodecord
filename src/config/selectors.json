@@ -1,0 +1,7 @@
+{
+  "MESSAGES_ON_SCREEN": "div[id*='messages']",
+  "MESSAGES": "div[id*='messages']",
+  "MESSAGE_AUTHOR": "span[class*='username']",
+  "MESSAGE_CONTENT": "div[class*='markup']",
+  "MESSAGE_DATE": "span[class*='timestamp']"
+}
